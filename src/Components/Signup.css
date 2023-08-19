@@ -1,0 +1,25 @@
+form {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    margin: 5px auto;
+    padding: 5px;
+}
+
+button {
+    background: blue;
+    margin: 5px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
